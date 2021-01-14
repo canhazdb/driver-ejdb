@@ -1,0 +1,33 @@
+{
+  "name": "canhazdb-driver-ejdb",
+  "version": "1.0.0",
+  "description": "A ejdb driver for canhazdb.",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "mql-to-jql": "^1.1.8",
+    "node-ejdb-lite": "^3.2.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "basictap": "^1.1.11",
+    "c8": "^7.3.5"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canhazdb/driver-ejdb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/canhazdb/driver-ejdb/issues"
+  },
+  "homepage": "https://github.com/canhazdb/driver-ejdb#readme"
+}
