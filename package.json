@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "mql-to-jql": "^1.1.8",
-    "node-ejdb-lite": "^3.2.3",
+    "node-ejdb-lite": "^3.3.0",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
